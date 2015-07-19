@@ -4,7 +4,7 @@
 
 If you are interested in my project, you could complete problems which are marked **"UNSOLVED"** in the following. Or if you are interested in certain chapter that I haven't finished, you could fork my project and make a branch to finish it and pull request to me.Thanks very much.
 
-In order to speed up this project, I will ignore hard problems(for instance, problems in the end of every chapter) and review them when finishing mediocre problems. You could also help me finish these hard peoblems.
+In order to speed up this project, I will ignore hard problems(for instance, problems in the end of every chapter) and review them when finishing mediocre problems. You could also help me finish these hard problems.
 
 If a problem is too easy to elaborate, I'll mark it as **straightforward** in order to speed up my progress.
 
